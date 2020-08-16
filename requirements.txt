@@ -1,0 +1,4 @@
+https://files.pythonhosted.org/packages/b8/bd/da2e1ee9372e23608ad2cb4ef0c9d927c51619742fcb7daf3d914d85e63d/opencv_python_headless-4.4.0.40-cp38-cp38-manylinux2014_x86_64.whl
+requests_toolbelt
+dlib==19.21.0
+Pillow==7.2.0
